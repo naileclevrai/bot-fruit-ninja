@@ -41,7 +41,7 @@ Le bot original était une implémentation basique avec les fonctionnalités sui
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/votre-username/bot-fruit-ninja.git
+git clone https://github.com/aywen1/bot-fruit-ninja.git
 cd bot-fruit-ninja
 ```
 
